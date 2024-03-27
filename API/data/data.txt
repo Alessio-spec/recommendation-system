@@ -1,0 +1,5 @@
+The data set can be found at:
+
+“Refit: Electrical Load Measurements (Cleaned).” University of Strathclyde,
+pureportal.strath.ac.uk/en/datasets/refit-electrical-load-measurements-cleaned.
+Accessed 25 Mar. 2024. 
